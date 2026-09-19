@@ -1,0 +1,5 @@
+**/bin/
+**/obj/
+.vs/
+artifacts/
+Community.PowerToys.Run.Plugin.LocalTranslator/Data/*.dict

@@ -1,0 +1,14 @@
+{
+  "ID": "B008DD20E2654C0996AD590FA0313A2C",
+  "ActionKeyword": "tr",
+  "IsGlobal": false,
+  "Name": "本地翻译 LocalTranslator",
+  "Author": "LocalTranslator Contributors",
+  "Version": "0.1.1",
+  "Language": "csharp",
+  "Website": "https://github.com/your-name/PowerToysLocalTranslator",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.LocalTranslator.dll",
+  "IcoPathDark": "Images\\localtranslator.dark.png",
+  "IcoPathLight": "Images\\localtranslator.light.png",
+  "DynamicLoading": false
+}
